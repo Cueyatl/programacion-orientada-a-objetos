@@ -1,0 +1,5 @@
+Analiza estos códigos que he adjuntado e
+implementa estos conceptos en un programa 
+ideado por ti. Recuerda usar instanciar, 
+heredar o usar métodos y construir tu programa 
+de forma modular con una clase llamada App() o MiApp().

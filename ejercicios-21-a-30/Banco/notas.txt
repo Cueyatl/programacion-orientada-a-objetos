@@ -1,0 +1,7 @@
+guardias de inclusion. 
+//This goes inside cuentaAhorro.
+#ifndef FILEnaMES CuetanBancaria
+#define FILEnaMES
+#endif
+
+Archivo cin
