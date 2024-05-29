@@ -3,10 +3,10 @@
 * Descripción: Crea una clase Scanner para que funcione como en java y 
 * declarar una clase taller, biblioteca o similar para usarlo. Modificar el código para que sea más modular con una clase llamada App.
 * Ejer 20
-* Autor: Fernando Alvarez D.
 */
 #include <iostream>
 #include <string>
+#include <vector>
 using namespace std;
  
 class Scanner {

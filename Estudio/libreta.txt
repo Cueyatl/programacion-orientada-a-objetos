@@ -1,0 +1,15 @@
+APUNTADORES EN CPP;
+LOS APUNTADORES INDICAN QUE UNA VARIABLE ESTA APUNTANDO
+A LA UBICACION DE UN DATO EN LA MEMORIA; ES DECIR UNA SERIES DE NUEROS Y LETRAS QUE LO IDENTIFICAN POR SU DIRECCION DENTRO DE LA MEMORIA
+EN VEZ DE APUNTAR DIRECTAMENTE AL DATO, APUNTA A SU UBICACION EN LA MEMORIA:
+LA SINTAXIS ES LA SIGUIENETE: 
+INT* APUNTADOR;
+UN APUNTADOR ES UNA VARIABLE QUE GUARDA LA DIRECCION DE MEMORIA DE OTRA VARIABLE, NO LA VARIABLE TAL CUAL.
+por ejemplo podemos tener una 
+int var=10; //que guarda el valor de 10.
+luego
+int* apuntador; que crea una variable apuntador de tipo int.
+asi podemos poner:
+*apuntador=&var;
+despuess tenemos que dereferenciar el apuntador, simplemente llevando el valor a otra variable:
+int value=*apuntador;

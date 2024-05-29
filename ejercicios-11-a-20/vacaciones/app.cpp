@@ -1,6 +1,6 @@
 // Daniel Emiliano Lopez Aguilar
-// abril 4 de 2024.
-// app.cp Ejercicio 22.
+// 21 de marzo de 2024.
+// app.cp Ejercicio 20.
 #include <iostream>
 #include <string>
 using namespace std;
